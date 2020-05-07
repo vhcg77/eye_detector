@@ -1,0 +1,10 @@
+mkdir build
+mkdir docs
+mkdir src
+mkdir test
+mkdir tools
+cd test
+mkdir benchmarks
+mkdir integration
+mkdir unit
+cd ..
